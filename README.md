@@ -1,4 +1,4 @@
-# Model_de_Espacio_Vectorial
+# Modelo de Espacio Vectorial
 Implementacion de un motor de busqueda por similitud sobre una coleccion  de documentos en español usando el modelo de espacio vectorial.
 
 ## ¿Qué hace?
